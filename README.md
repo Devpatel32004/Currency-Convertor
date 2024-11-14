@@ -1,1 +1,1 @@
-This is a my javascript project in which i have created a currency convertor wb app.in this project i have used an api to fetch data.
+This is my javascript project in which I have created a currency convertor web app.in this project I have used an api to fetch data.
